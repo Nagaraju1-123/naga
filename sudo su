@@ -1,0 +1,66 @@
+[33mcommit 4f7ddc557bad28c67848b137b8806f3a954ed37f[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Merge: a3a9d1b 27e9993
+Author: root <root@naga-vm.t2m1svicpfnejfws155jyhmjle.lx.internal.cloudapp.net>
+Date:   Sun Jul 17 17:08:05 2022 +0000
+
+    modifed
+
+[33mcommit a3a9d1b4fa03597eadbe2e2d28840ab974b88b63[m
+Author: root <root@naga-vm.t2m1svicpfnejfws155jyhmjle.lx.internal.cloudapp.net>
+Date:   Sun Jul 17 17:04:04 2022 +0000
+
+    modified abc.txt file
+
+[33mcommit 27e99931d9cd2abd38b0e7a49b89d7f07c3d39ae[m[33m ([m[1;32mmaster[m[33m)[m
+Author: root <root@naga-vm.t2m1svicpfnejfws155jyhmjle.lx.internal.cloudapp.net>
+Date:   Sun Jul 17 17:02:13 2022 +0000
+
+    modified abc.txt file
+
+[33mcommit f7f046791b71d961dbd796e791c7929751162e57[m
+Author: root <root@naga-vm.t2m1svicpfnejfws155jyhmjle.lx.internal.cloudapp.net>
+Date:   Sun Jul 17 16:59:55 2022 +0000
+
+    modifed abc.txt file
+
+[33mcommit 26359e4cbc76088725d2cff7518d623b67075cd5[m
+Author: root <root@naga-vm.t2m1svicpfnejfws155jyhmjle.lx.internal.cloudapp.net>
+Date:   Sun Jul 17 16:56:09 2022 +0000
+
+    changed abc.txt file
+
+[33mcommit d35dfd694eaf9221f95fdd23c4105ab51633dea1[m
+Author: root <root@naga-vm.t2m1svicpfnejfws155jyhmjle.lx.internal.cloudapp.net>
+Date:   Sun Jul 17 16:52:21 2022 +0000
+
+    added abc.txt file
+
+[33mcommit e58427ea2f56914e7827916b964b6f159332943a[m
+Author: root <root@naga-vm.t2m1svicpfnejfws155jyhmjle.lx.internal.cloudapp.net>
+Date:   Sun Jul 17 16:47:33 2022 +0000
+
+    created 2 files
+
+[33mcommit 1397ae6b07062c5ff4c6b79612484c17d7c44997[m
+Author: root <root@naga-vm.t2m1svicpfnejfws155jyhmjle.lx.internal.cloudapp.net>
+Date:   Sun Jul 17 16:44:03 2022 +0000
+
+    deleted b1 file
+
+[33mcommit 0f6dd03994ed82eee2cc8109837ba93d265117ab[m
+Author: root <root@naga-vm.t2m1svicpfnejfws155jyhmjle.lx.internal.cloudapp.net>
+Date:   Sun Jul 17 16:40:50 2022 +0000
+
+    copied the b1 file to the test dir20.89.16.65
+
+[33mcommit 3f3116bcc07c54dd0b43856967118313c71fce46[m
+Author: root <root@naga-vm.t2m1svicpfnejfws155jyhmjle.lx.internal.cloudapp.net>
+Date:   Sun Jul 17 16:29:36 2022 +0000
+
+    created 2 files
+
+[33mcommit 904af9717315d8233601deb8922de6ca7b689e5e[m
+Author: root <root@naga-vm.t2m1svicpfnejfws155jyhmjle.lx.internal.cloudapp.net>
+Date:   Sun Jul 17 16:22:53 2022 +0000
+
+    created 2 files
